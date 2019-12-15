@@ -12,4 +12,4 @@ clear_list = list()
 for i in str:
     if i not in clear_list: clear_list.append(i)
 for word in clear_list:
-    print(word, end = " ")
+    print(word,)
