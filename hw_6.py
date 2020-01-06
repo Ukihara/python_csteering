@@ -19,5 +19,5 @@ while nums != 1000000:
         sumbin = sumbin + int(nums) #суммирует двоичные палиндромы в десятичном виде
     nums = nums + 1
 
-print(summa)
-print(sumbin)
+print(summa)    #545045040
+print(sumbin)   #642109351
